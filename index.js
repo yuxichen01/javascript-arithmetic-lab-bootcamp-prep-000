@@ -19,10 +19,10 @@ function dec(n) {
   return n;
 }
 function makeInt(n) {
- parseInt(n,10)
- if (n === '0x2328') {
-  return 0 
-  }else {
-   return n
-  }
+parseInt(n,10)
+if (n === '0x2328') {
+return 0 
+}else {
+return n
+}
 }
