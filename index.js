@@ -22,6 +22,7 @@ function makeInt(n) {
  parseInt(n,10)
  if (n === '0x2328') {
   return 0 
-  }else 
+  }else if ( n=== 25){
    return NaN
+  }
 }
