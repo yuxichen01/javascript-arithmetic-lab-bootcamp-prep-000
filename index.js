@@ -24,5 +24,4 @@ function makeInt(n) {
   return 0 
   }else
    return n
-  }
 }
